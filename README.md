@@ -1,6 +1,6 @@
 👋 Hi, Welcome to my GitHub profile!
 
-I’m Nabila Ijtihatil Ismail. I'm currently learning about Data Analysis and Business Intelligence. I have worked on several mini projects related to this using several tools such as PostgreSQL, Google Colab, Tableau, and PowerBI
+I’m Nabila Ijtihatil Ismail. I'm currently learning about Data Analysis, Data Visualization, and Business Intelligence. I have worked on several mini projects related to this using several tools such as PostgreSQL, Big Query, Google Colab, Tableau, and PowerBI
 
 
 <!---
